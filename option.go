@@ -3,7 +3,7 @@ package commons
 import (
 	"time"
 
-	"github.com/libi/dcron/commons/dlog"
+	"github.com/dcron-contrib/commons/dlog"
 )
 
 const (

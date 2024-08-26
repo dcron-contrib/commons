@@ -1,4 +1,4 @@
-module github.com/libi/dcron/commons
+module github.com/dcron-contrib/commons
 
 go 1.19
 
